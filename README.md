@@ -55,5 +55,5 @@ I enjoy solving backend problems, designing APIs, and learning modern technologi
 
 ## 📫 Connect with Me
 
-- LinkedIn: Add your LinkedIn profile
-- Email: hariommourya1008.com
+- LinkedIn: https://www.linkedin.com/in/hariom-mourya-a158191a0/
+- Email: hariommourya1008@gmail.com
