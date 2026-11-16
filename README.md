@@ -4,7 +4,7 @@ Backend Developer | Node.js, TypeScript, Express.js, MongoDB &amp; PostgreSQL
 
 ## 🚀 About Me
 
-Backend Developer with around 2 years of experience building REST APIs and scalable backend applications.
+Backend Developer with around 3 years of experience building REST APIs and scalable backend applications.
 
 I enjoy solving backend problems, designing APIs, and learning modern technologies.
 
